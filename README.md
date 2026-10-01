@@ -1,4 +1,4 @@
-
+https://github.com/fywmjj/better-Vela-IME
 ![预览图](/preview.png)
 
 # better-Vela-IME (Vela 输入法重构版)
